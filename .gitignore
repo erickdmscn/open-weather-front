@@ -65,4 +65,5 @@ __screenshots__/
 .DS_Store
 Thumbs.db
 
-/enviroments 
+# Environment files (typo: enviroments)
+**/enviroments/
